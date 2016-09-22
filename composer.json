@@ -4,16 +4,23 @@
     "keywords": ["yii", "yii2", "kint", "debug"],
     "type": "yii2-extension",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/digitv/kint/issues",
+        "source": "https://github.com/digitv/kint"
+    },
     "authors": [
         {
             "name": "Digit",
             "email": "digit.vova@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": {"digitv\\kint": ""}
+        "psr-4": {
+            "digitv\\kint": ""
+        }
     }
 }

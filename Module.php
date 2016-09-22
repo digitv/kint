@@ -5,10 +5,9 @@ use Yii;
 use Kint;
 
 /**
-* Kint module
-*
-* @author Digit <digit.vova@gmail.com>
-*/
+ * Module for Yii2 projects debug based on "Kint"
+ * @author Digit <digit.vova@gmail.com>
+ */
 class Module extends \yii\base\Module {
 
   public function init() {
