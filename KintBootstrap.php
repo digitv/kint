@@ -1,7 +1,7 @@
 <?php
 namespace digitv\kint;
 use \yii\base\BootstrapInterface;
-class Bootstrap implements BootstrapInterface
+class KintBootstrap implements BootstrapInterface
 {
     /** @param \yii\web\Application $app */
     public function bootstrap($app)
