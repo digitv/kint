@@ -1,7 +1,8 @@
 {
     "name": "digitv/kint",
+    "version": "1.0.0",
     "description": "Add kint support",
-    "keywords": ["yii", "yii2", "kint", "debug"],
+    "keywords": ["yii2", "kint", "debug"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
@@ -20,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "digitv\\kint": ""
+            "digitv\\kint\\": ""
         }
     }
 }
