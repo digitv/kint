@@ -1,6 +1,6 @@
 {
     "name": "digitv/kint",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Add kint support",
     "keywords": ["yii2", "kint", "debug"],
     "type": "yii2-extension",
@@ -30,6 +30,10 @@
     "extra": {
         "branch-alias": {
             "dev-master": "1.x-dev"
+        },
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
         }
     }
 }
