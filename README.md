@@ -1,4 +1,4 @@
-#### digitv/kint
+### digitv/kint
 Yii2 kint extension for debug. Now you ca use functions **d()**, **ddd()**.
 
 Install with composer
