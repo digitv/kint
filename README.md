@@ -1,5 +1,5 @@
 ### digitv/kint
-Yii2 kint extension for debug. Now you ca use functions **d()**, **ddd()**.
+Yii2 kint extension for debug. Now you can use functions **d()**, **ddd()**.
 
 Install with composer
 
