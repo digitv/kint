@@ -7,7 +7,7 @@ Install with composer
 composer require digitv/kint:1.x-dev
 ```
 
-When include it in your web config like this:
+Then include it in your web config like this:
 
 ```
 if (YII_ENV_DEV) {
